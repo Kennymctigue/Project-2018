@@ -1,6 +1,6 @@
 # Project-2018 - Iris Dataset
 
-![Iris Flowers](Figure10_Iris_flower.png)
+![Iris Flowers](Figure10_Iris_flower.png?style=centerme)
 
 ## Backround to the Iris Flower Dataset
 
