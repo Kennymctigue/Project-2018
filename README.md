@@ -38,7 +38,7 @@ By looking at both charts we can see that, with regard to Petal size, Setosa is 
 
 ![Petals](Petals.png)
 
-With regard to Sepal size, interestingly, the Setosa class has on average a higher length than the other two classes but a lower than average width.  Again, both the Versicolor and Virginica classes are more aligned with each other than with the Setosa class.
+With regard to Sepal size, interestingly, the Setosa class has on average a higher width than the other two classes but a lower than average length.  Again, both the Versicolor and Virginica classes are more aligned with each other than with the Setosa class.
 
 ![Sepals](Sepals.png)
 
