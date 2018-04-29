@@ -29,8 +29,12 @@ The Setosa class has the highest maximum sepal width with 4.4 cm
 The Versicolor class has the lowest minimum sepal width with 2.0 cm
 The average sepal width across all the classes is 3.05 cm with a standard deviation of 0.432
 
+### Graphical Representations of the Data
 
+To include graphics to illustrate the data findings I imported [Matplotlib](https://matplotlib.org/), which is a Python 2D plotting library that takes the raw data and offers a variety of different ways to represent it including everything from basic histograms to more advanced interactive formats.
+I chose to use Scatter charts to display my findings on the dataset as I believe it givs the best visual understanding of the data.
 
+By looking at both charts we can see that Setosa is clearly the smallest of the classes with Versicolor and Virginica being closer in size, Virginica being the largest of the three.
 
 ![Petals](Petals.png)
 
