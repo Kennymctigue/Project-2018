@@ -13,7 +13,7 @@ The Iris dataset is famous and is used as a standard testing tool for new data a
 
 ## Using Python to analyse the Iris Flower dataset
 [Python](https://www.python.org/) is a high level computer programming language that is used in project for analysing the data within the Iris Flower Dataset.
-I first started by importing [Numpy](http://www.numpy.org/) which is a package for scientific computing with Python.  There are a number of commands within Numpy that allow for the analyising of array of data such as the Iris Flower dataset.  Utilising these commands as shown in the Irisdata.py file in the repository I was able to establish the maximum, minimum and mean values for each of the Iris flower classes in the set aswell as the overall figures.  
+I first started by importing [Numpy](http://www.numpy.org/) which is a package for scientific computing with Python.  There are a number of commands within Numpy that allow for the analyising of array of data such as the Iris Flower dataset.  Utilising these commands as shown in the Irisanalysis.py file in the repository I was able to establish the maximum, minimum and mean values for each of the Iris flower classes in the set aswell as the overall figures.  
 
 The results of these analytics were as follows:
 The Virginica class has the highest maximum petal length with 7.9 cm
