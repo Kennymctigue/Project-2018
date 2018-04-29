@@ -29,3 +29,9 @@ The Setosa class has the highest maximum sepal width with 4.4 cm
 The Versicolor class has the lowest minimum sepal width with 2.0 cm
 The average sepal width across all the classes is 3.05 cm with a standard deviation of 0.432
 
+
+
+
+![Petals](Petals.png)
+
+![Sepals](Sepals.png)
