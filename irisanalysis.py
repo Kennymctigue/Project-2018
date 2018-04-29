@@ -43,16 +43,16 @@ seplenmin = numpy.amin(data[:,2])
 sepwidmin = numpy.amin(data[:,3])
 
 # To calculate the mean of each variable
-petlenmean = numpy.mean(data[:,0])
-petwidmean = numpy.mean(data[:,1])
-seplenmean = numpy.mean(data[:,2])
-sepwidmean = numpy.mean(data[:,3])
+petlenmean = round(numpy.mean(data[:,0]),2)
+petwidmean = round(numpy.mean(data[:,1]),2)
+seplenmean = round(numpy.mean(data[:,2]),2)
+sepwidmean = round(numpy.mean(data[:,3]),2)
 
 # To calculate the standard deviation from the mean of each variable
-petlenstd = numpy.std(data[:,0])
-petwidstd = numpy.std(data[:,1])
-seplenstd = numpy.std(data[:,2])
-sepwidstd = numpy.std(data[:,3])
+petlenstd = round(numpy.std(data[:,0]),3)
+petwidstd = round(numpy.std(data[:,1]),3)
+seplenstd = round(numpy.std(data[:,2]),3)
+sepwidstd = round(numpy.std(data[:,3]),3)
 
 # To identify the data of just the Setosa class of Iris
 setpetlen = data[1:50,0]
@@ -192,3 +192,4 @@ elif versepwidmin < setsepwidmin and versepwidmin < virsepwidmin:
 else:
     print ("The", vir , "class has the lowest sepal  minimum width with", virsepwidmin, "cm")
 print ("The average sepal width across all the classes is", sepwidmean, "cm with a standard deviation of", sepwidstd)
+
