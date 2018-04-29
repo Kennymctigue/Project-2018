@@ -42,3 +42,7 @@ With regard to Sepal size, interestingly, the Setosa class has on average a high
 
 ![Sepals](Sepals.png)
 
+## Conclusions
+
+Overall, the Iris Flower dataset was an interesting starting point in data analytics.  I was intriguing to see how, when viewed from different angles, data can sometimes throw up unexpected results.  This project was also a valuable lesson in maintaining tidy and efficient code with good references and regular updates.
+
