@@ -192,3 +192,25 @@ elif versepwidmin < setsepwidmin and versepwidmin < virsepwidmin:
 else:
     print ("The", vir , "class has the lowest sepal  minimum width with", virsepwidmin, "cm")
 print ("The average sepal width across all the classes is", sepwidmean, "cm with a standard deviation of", sepwidstd)
+
+
+pl.title("Petals")
+pl.xlabel("Petal Length cm")
+pl.ylabel("Petal Width cm")
+pl.scatter(setpetlen, setpetwid)
+pl.scatter(verpetlen, verpetwid)
+pl.scatter(virpetlen, virpetwid)
+pl.scatter(petlenmean, petwidmean)
+pl.legend(["Setosa", "Versicolor", "Virginica", "Overall Mean"])
+pl.show()   
+
+pl.title("Sepals")
+pl.xlabel("Sepal Length cm")
+pl.ylabel("Sepal Width cm")
+pl.scatter(setseplen, setsepwid)
+pl.scatter(verseplen, versepwid)
+pl.scatter(virseplen, virsepwid)
+pl.scatter(seplenmean,sepwidmean)
+pl.legend(["Setosa", "Versicolor", "Virginica", "Overall Mean"])
+pl.show()   
+
