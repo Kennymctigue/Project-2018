@@ -16,15 +16,16 @@ The Iris dataset is famous and is used as a standard testing tool for new data a
 I first started by importing [Numpy](http://www.numpy.org/) which is a package for scientific computing with Python.  There are a number of commands within Numpy that allow for the analyising of array of data such as the Iris Flower dataset.  Utilising these commands as shown in the Irisanalysis.py file in the repository I was able to establish the maximum, minimum and mean values for each of the Iris flower classes in the set aswell as the overall figures.  
 
 The results of these analytics were as follows:
-The Virginica class has the highest maximum petal length with 7.9 cm
-The Setosa class has the lowest minimum petal length with 4.3 cm
-The average petal length across all the classes is 5.84 cm with a standard deviation of 0.825
-The Setosa class has the highest maximum petal width with 4.4 cm
-The Versicolor class has the lowest minimum petal width with 2.0 cm
-The average petal width across all the classes is 3.05 cm with a standard deviation of 0.432
-The Virginica class has the highest maximum sepal length with 6.9 cm
-The Setosa class has the lowest minimum sepal length with 1.0 cm
-The average sepal length across all the classes is 3.76 cm with a standard deviation of 1.759
-The Virginica class has the highest maximum sepal width with 2.5 cm
-The Setosa class has the lowest minimum sepal width with 0.1 cm
-The average sepal width across all the classes is 1.2 cm with a standard deviation of 0.761
+The Virginica class has the highest maximum petal length with 6.9 cm
+The Setosa class has the lowest minimum petal length with 1.0 cm
+The average petal length across all the classes is 3.76 cm with a standard deviation of 1.759
+The Virginica class has the highest maximum petal width with 2.5 cm
+The Setosa class has the lowest minimum petal width with 0.1 cm
+The average petal width across all the classes is 1.2 cm with a standard deviation of 0.761
+The Virginica class has the highest maximum sepal length with 7.9 cm
+The Setosa class has the lowest minimum sepal length with 4.3 cm
+The average sepal length across all the classes is 5.84 cm with a standard deviation of 0.825
+The Setosa class has the highest maximum sepal width with 4.4 cm
+The Versicolor class has the lowest minimum sepal width with 2.0 cm
+The average sepal width across all the classes is 3.05 cm with a standard deviation of 0.432
+
