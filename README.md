@@ -12,3 +12,8 @@ The dataset was compiled by taking 50 samples each of three different species of
 The Iris dataset is famous and is used as a standard testing tool for new data analysis techniques.
 
 ## Using Python to analyse the Iris Flower dataset
+[Python](https://www.python.org/) is a high level computer programming language that is used in project for analysing the data within the Iris Flower Dataset.
+I first started by importing [Numpy](http://www.numpy.org/) which is a package for scientific computing with Python.  There are a number of commands within Numpy that allow for the analyising of array of data such as the Iris Flower dataset.  Utilising these commands as shown in the Irisdata.py file in the repository I was able to establish the maximum, minimum and mean values for each of the Iris flower classes in the set aswell as the overall figures.  
+
+The results of these analytics were as follows:
+
